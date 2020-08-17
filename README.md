@@ -1,10 +1,4 @@
 ## 欢迎来到我的主页
-姓名：李朋
-性别：男
-毕业学校：电子科技大学
-
-`研究方向`：分布式优化、智能电网
-
 
 You can use the [editor on GitHub](https://github.com/lp48280421/lp48280421.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
