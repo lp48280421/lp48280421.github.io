@@ -1,5 +1,5 @@
 ## Welcome to this Page
-Name：Pengli          Major：Control Theory and Control Enginering
+Name：Pengli          >>> Major：Control Theory and Control Enginering
 
 University：uestc
 
