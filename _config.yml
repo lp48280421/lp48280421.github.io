@@ -2,10 +2,10 @@
 # Site settings
 title: Li Peng
 name: Li Peng
-subtitle: PHD
+subtitle: Homepage
 email: paul.soto@upf.edu
 description: >
-  PHD
+  Homepage
 baseurl: ""
 url: "https://pesoto.github.io/"
 github_username:  pesoto
